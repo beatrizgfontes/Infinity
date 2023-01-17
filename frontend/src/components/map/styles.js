@@ -22,7 +22,7 @@ export const Div = styled.div`
   padding-left: 7%;
 `
 export const Div2 = styled.div`
-  background-image: linear-gradient(to left, ${props => props.theme.colors.background}, #00A6ED, #00A6ED, ${props => props.theme.colors.background});
+  background-image: linear-gradient(to left, ${props => props.theme.colors.background}, ${props => props.theme.colors.primary}, ${props => props.theme.colors.primary}, ${props => props.theme.colors.background});
   padding-left: 7%;
 `
 export const Container = styled.div`

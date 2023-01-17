@@ -4,7 +4,7 @@ export const Container = styled.div`
   background-image: linear-gradient(
     to left,
     ${props => props.theme.colors.background},
-    #00a6ed 70%
+    #663399 70%
   );
   color: ${props => props.theme.colors.text};
   display: flex;

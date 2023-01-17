@@ -28,7 +28,7 @@ export const ShowCase = styled.section`
   background-image: linear-gradient(
     to bottom,
     ${props => props.theme.colors.background},
-    #00a6ed 70%
+    ${props => props.theme.colors.primary} 70%
   );
   color: ${props => props.theme.colors.text};
 

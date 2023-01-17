@@ -4,7 +4,7 @@ export const BackgroundContainer = styled.div`
   background-image: linear-gradient(
     to bottom,
     ${props => props.theme.colors.background},
-    #00a6ed 70%
+    ${props => props.theme.colors.primary} 70%
   );
 `
 
