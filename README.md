@@ -19,3 +19,11 @@ Esse é um projeto solicitado no 4º período na cadeira de Desenvolvimento de S
 - Contactar os desenvolvedores;
 - Endereçar ao código fonte da aplicação;
 - Encaminhar ao topo da página.
+
+<h2 align="center">👨🏽‍💻 Autores</h2>
+<div align="center">
+  <img width="100px;" src="https://avatars.githubusercontent.com/u/84406367?v=4" alt="ArthurVBS' photo"/>
+  <img width="100px;" src="https://avatars.githubusercontent.com/u/85123299?v=4" alt="beatrizgfontes' photo"/>
+  <img width="100px;" src="https://avatars.githubusercontent.com/u/84513183?v=4" alt="MariaManguinho's photo"/>
+  <img width="100px;" src="https://avatars.githubusercontent.com/u/83993289?v=4" alt="VitoriaLira's photo"/>
+</div>
