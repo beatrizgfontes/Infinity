@@ -4,9 +4,9 @@
 Esse é um projeto solicitado no 4º período na cadeira de Desenvolvimento de Sistemas Web II no Instituto Federal de Pernambuco (IFPE), que visa fazer uma aplicação web para um determinado mini mundo.
 
 ## Requerimentos do Sistema:
-- Front-End: Telas desenvolvidas usando tecnologias como: HTML, CSS, Javascript
-- Backend: Deve ser desenvolvido usando uma das tecnologias de backend: Java, Python, PHP
-- Banco de Dados: Utilizar uma tecnologia de Banco de Dados relacional: Postgres, MySQL
+- Front-End: Telas desenvolvidas usando tecnologias como: HTML, CSS, Javascript.
+- Backend: Deve ser desenvolvido usando uma das tecnologias de backend: Java, Python, PHP.
+- Banco de Dados: Utilizar uma tecnologia de Banco de Dados relacional: Postgres, MySQL.
 
 ## 10 casos de uso:
 - Efetuar login na aplicação;
