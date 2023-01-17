@@ -10,7 +10,7 @@ const Footer = () => {
     <Container>
       <Text>Infinity</Text>
       <RightBox>
-        <Link href="https://github.com/thiagomvilela/Infinity" target="_blank">
+        <Link href="https://github.com/beatrizgfontes/Infinity" target="_blank">
           <i className="fab fa-github"></i>
         </Link>
         <Button className="" onClick={() => handleClick()}>
